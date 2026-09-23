@@ -13,6 +13,7 @@ authors:
     family-names: Chen
     affiliation: UCSF
     orcid: 'https://orcid.org/0000-0001-9285-609X'
+ DOI: 10.5072/zenodo.608089
 repository-code: 'https://github.com/strossi22/software-demo/tree/main'
 abstract: Analysis tools for biodiversity research data.
 license: BSD-3-Clause
